@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/big.log -g dot
+Description: Perform basic analysis of the big.log journal file. (No error expected)
+

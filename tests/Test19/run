@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/big.log -t 24 -e -g dot

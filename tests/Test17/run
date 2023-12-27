@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/big.log -t 14 -e -d www.google.fr -g dot

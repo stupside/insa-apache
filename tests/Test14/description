@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/big.log -e -d if.insa-lyon.fr -t 16 -g dot
+Description: Filter by extension, domain (if.insa-lyon.fr), and hour (16) and generate an output file dot. (No error expected)
+

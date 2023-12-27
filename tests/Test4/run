@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/small.log -t 15 -g dot

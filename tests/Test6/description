@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/medium.log -d intranet-if.insa-lyon.fr -g dot
+Description: Filter by domain (intranet-if.insa-lyon.fr) and generate an output file dot. (No error expected)
+

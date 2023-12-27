@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/big.log -d if.insa-lyon.fr -g dot
+Description: Filter by domain (if.insa-lyon.fr) and generate an output file dot. (No error expected)
+

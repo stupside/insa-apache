@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/big.log -d if.insa-lyon.fr -g dot

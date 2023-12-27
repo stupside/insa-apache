@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/medium.log -g dot
+Description: Perform basic analysis of the medium.log journal file. (No error expected)
+

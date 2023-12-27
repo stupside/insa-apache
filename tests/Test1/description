@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/small.log -g dot
+Description: Perform basic analysis of the small.log journal file. (No error expected)
+

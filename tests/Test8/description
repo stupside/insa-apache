@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/small.log -d -g dot
+Description: Filter by domain (INVALID) and generate an output file dot. (Error expected) (Error expected)
+

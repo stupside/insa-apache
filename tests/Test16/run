@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/medium.log -t 8 -e -g dot

@@ -1,0 +1,16 @@
+Warning: the following filters are applied:
+- logs between 16h and 17h
+- logs from the domain if.insa-lyon.fr
+- logs with the following extensions: css,gif,ico,jpg,js,png,
+Dot file saved to dot
+Top 10 out of 10 visited nodes:
+ 1 - /SiteWebIF/Intranet-etudiant.php (369 hits)
+ 2 - /SiteWebIF/Intranet-personnel.php (47 hits)
+ 3 - /vie-etudiante/laedi (0 hits)
+ 4 - /presentation/historique (0 hits)
+ 5 - /presentation/annuaire (0 hits)
+ 6 - /presentation (0 hits)
+ 7 - /intranet-personnel-if (0 hits)
+ 8 - /formation/3if (0 hits)
+ 9 - /bibif (0 hits)
+ 10 - / (0 hits)

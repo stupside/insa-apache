@@ -1,0 +1,1 @@
+../../.build/analog ../../samples/medium.log -d intranet-if.insa-lyon.fr -g dot

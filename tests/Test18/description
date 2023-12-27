@@ -1,0 +1,3 @@
+Command: ../../.build/analog ../../samples/small.log -t -1 -g dot
+Description: Filter by negative hour (-1) and generate an output file dot. (Error expected) (Error expected)
+
